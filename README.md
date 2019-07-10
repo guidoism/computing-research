@@ -5,7 +5,7 @@ Index of all research relating to computers (CS, CE, EE, etc)
 
 ## Research Groups
 * [
-Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cornell.edu) - Capra is a research group at Cornell in the Computer Science and Electrical and Computer Engineering departments. Our research studies abstractions and efficiency through the interaction of programming languages and computer architecture.
+Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cornell.edu) - Cornell CS/EE - Studies abstractions and efficiency through the interaction of programming languages and computer architecture.
 * [Programming Languages Group](http://pl.cs.cornell.edu) - Cornell 
 
 ## Labs
