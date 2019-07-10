@@ -8,7 +8,7 @@ Index of all research relating to computers (CS, CE, EE, etc)
 Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cornell.edu) - Cornell CS/EE - Studies abstractions and efficiency through the interaction of programming languages and computer architecture.
 * [Programming Languages Group](http://pl.cs.cornell.edu) - Cornell
 * [µSystems Research Group](https://www.ncl.ac.uk/engineering/research/eee/microsystems/) - Newcastle University - Mokhov
-* [TODO UCLA's research groups ](http://icslwebs.ee.ucla.edu/dejan/researchwiki/index.php/Research)
+* [TODO UCLA's research groups ](http://icslwebs.ee.ucla.edu/dejan/researchwiki/index.php/Research) they do work with MEMS relay switches
 
 ## Labs
 * [Computer Systems Lab](http://www.csl.cornell.edu/) - Cornell - Christina Delimitrou, Kirstin H. Petersen, Adrian Sampson 
