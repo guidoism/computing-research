@@ -14,6 +14,7 @@ Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cor
 * [Computer Systems Lab](http://www.csl.cornell.edu/) - Cornell - Christina Delimitrou, Kirstin H. Petersen, Adrian Sampson 
 
 ## Universities
+* [University of Louisville](http://louisville.edu/speed/computer/) - [Research](http://louisville.edu/speed/computer/research)
 
 ## People
 * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) - Cornell - (e.g. [FPGAs Have the Wrong Abstraction](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html))
