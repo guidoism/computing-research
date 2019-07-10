@@ -4,6 +4,8 @@ Index of all research relating to computers (CS, CE, EE, etc)
 ## Categories
 
 ## Research Groups
+* [
+Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cornell.edu)
 * [Programming Languages Group](http://pl.cs.cornell.edu) - Cornell 
 
 ## Labs
