@@ -6,7 +6,8 @@ Index of all research relating to computers (CS, CE, EE, etc)
 ## Research Groups
 * [
 Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cornell.edu) - Cornell CS/EE - Studies abstractions and efficiency through the interaction of programming languages and computer architecture.
-* [Programming Languages Group](http://pl.cs.cornell.edu) - Cornell 
+* [Programming Languages Group](http://pl.cs.cornell.edu) - Cornell
+* [µSystems Research Group](https://www.ncl.ac.uk/engineering/research/eee/microsystems/) - Newcastle University - Mokhov
 
 ## Labs
 * [Computer Systems Lab](http://www.csl.cornell.edu/) - Cornell - Christina Delimitrou, Kirstin H. Petersen, Adrian Sampson 
@@ -14,5 +15,5 @@ Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cor
 ## Universities
 
 ## People
-* [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) - (e.g. [FPGAs Have the Wrong Abstraction](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html))
-* Andrey Makhov
+* [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) - Cornell - (e.g. [FPGAs Have the Wrong Abstraction](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html))
+* [Andrey Mokhov](https://www.ncl.ac.uk/engineering/staff/profile/andreymokhov.html#background) - 
