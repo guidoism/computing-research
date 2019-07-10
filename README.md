@@ -11,7 +11,7 @@ Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cor
 * [TODO UCLA's research groups ](http://icslwebs.ee.ucla.edu/dejan/researchwiki/index.php/Research) they do work with MEMS relay switches
 
 ## Labs
-* [Computer Systems Lab](http://cecs.louisville.edu/csl/index.html#Home) - Louisville  - Nihat Altiparmak - [Weekly Discussions](http://cecs.louisville.edu/csl/weeklydiscussions.html)
+* [Computer Systems Lab](http://cecs.louisville.edu/csl/index.html#Home) - Louisville  - Nihat Altiparmak - [Weekly Discussions](http://cecs.louisville.edu/csl/weeklydiscussions.html) - [Github](https://github.com/UOFL-CSL)
 * [Computer Systems Lab](http://www.csl.cornell.edu/) - Cornell - Christina Delimitrou, Kirstin H. Petersen, Adrian Sampson 
 
 ## Universities
