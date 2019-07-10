@@ -15,3 +15,4 @@ Computer Architecture and Programming Abstractions (Capra)](https://capra.cs.cor
 
 ## People
 * [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) - (e.g. [FPGAs Have the Wrong Abstraction](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html))
+* Andrey Makhov
